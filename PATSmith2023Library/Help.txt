@@ -1,0 +1,96 @@
+Select whether you are acessing the system as an employee or a member.
+/
+Your employee ID and password are required to login.
+If you can not access your account:
+Employee Service: 067 004 4275
+/
+BOOKS:
+Add = Insert new books into the library
+Delete = Remove books from the library
+Find = Search for books in the library
+
+MEMBERS:
+Register = Sign up a new member
+Remove = Cancel a member's subscription
+Access = Search for a member's details
+
+ACCOUNT:
+Update = Change your password
+Logout = Sign out of your account
+Resign = Permanently delete your account
+/
+To update your password, you need to input your old password
+and input the new password twice.
+INVALID ERROR: Make sure you have inputted the passwords 
+correctly.
+/
+Fill in any or all of the fields to search for matching books.
+TIP: ISBN is the most specific field.
+/
+Both the member's username and ID are required in order to 
+access their information, such as contact details and password.
+/
+All fields need to be filled in to insert a book into the library's
+database. 
+Please make sure you select the correct genre.
+NOTE: The ISBN field must contain 13 digits
+NOTE: The YEAR PUBLISHED field must be in the format YYYY
+/
+The ISBN of the book is required to remove it from the library's
+database to prevent deletion anomalies. 
+NOTE: This permanently deletes the book from the library. 
+Any reservations by members will also be deleted.
+/
+A username and password are required to register a member. 
+Phone details are not required.
+/
+The member's ID is required to cancel their subscription.
+NOTE: Member will be permantely deleted from system.
+/
+Your username and password are required to sign in.
+If you do not have an account, you need to register.
+If you can not access your account:
+Member Service: 067 004 4275
+/
+Genre: Search for books under a specific genre
+Manual: Use the title, author, ISBN or year published
+to search for a book
+/
+Click on a genre to see a list of books that classify
+as that genre
+/
+The author, title, and ISBN are required to reserve a book.
+NOTE: You cannot reserve a book if you currently have one out
+/
+Update your phone number, password, or view your current
+reserved book.
+/
+A username and password is required to register as a member.
+NOTE: Your password has to be inputted twice to ensure you
+do not misinput
+/
+You need to input your original password, as well as the new
+password twice to validate and then update it.
+/
+Your current reserved book's information is displayed. There 
+is no due date, however, you cannot reserve more than one book
+at a time.
+/
+Update your phone number. This can be used to contact you should
+there be a problem with your account. The information will not be
+shared outside of the system.
+/
+Fill in any or all of the fields to search for matching books.
+TIP: ISBN input is the most specific.
+/
+All books that match the selected genre are displayed below. 
+Press the back arrow to select a different genre.
+/
+FIND A BOOK: Search via genre or manually for a book to reserve
+TAKE OUT BOOK: Reserve a specific book
+RETURN BOOK: Return your current reserved book
+
+VIEW ACCOUNT: Update your account details eg. phone number and 
+password
+LOGOUT: Sign out of your current account
+DELETE ACCOUNT: Permanently cancel your member subscription
